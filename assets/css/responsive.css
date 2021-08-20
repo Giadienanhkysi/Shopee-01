@@ -53,7 +53,9 @@
     .header__list {
         display: block;
     }
-
+    .header__search-select-label{
+        display: none;
+    }
     .header__cart-list {
         z-index: 1;
         position: fixed;
